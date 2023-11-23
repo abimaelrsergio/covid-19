@@ -1,4 +1,4 @@
-# covid-19 Brazillian status
+# COVID-19 Brazillian status
 
 Notification of cases of coronavirus disease 2019 (COVID-19) in Brazil.
 
@@ -10,7 +10,7 @@ npm install
 ## Usage
 
 ```bash
-nodemon index.js
+node index.js
 ```
 
 ## URL

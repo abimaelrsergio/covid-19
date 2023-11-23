@@ -1,6 +1,5 @@
 import express from 'express';
 import axios from 'axios';
-import dayjs from 'dayjs';
 
 const app = express();
 const port = 3000;
